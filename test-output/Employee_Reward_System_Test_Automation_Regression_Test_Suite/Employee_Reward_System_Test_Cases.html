@@ -1,0 +1,214 @@
+<html>
+<head>
+<title>TestNG:  Employee_Reward_System_Test_Cases</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Employee_Reward_System_Test_Cases</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>27/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Jun 15 22:28:28 EDT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>100 seconds (100828 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.EmployeesLinkTest()'><b>EmployeesLinkTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.JobRoleLinkTest()'><b>JobRoleLinkTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.RewardLinkTest()'><b>RewardLinkTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.dasbordLinkTest()'><b>dasbordLinkTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.employeePageLableTest()'><b>employeePageLableTest</b><br>Test class: com.qa.testcases.EmployeePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.employeePageLogoTest()'><b>employeePageLogoTest</b><br>Test class: com.qa.testcases.EmployeePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.employeePageTitleTest()'><b>employeePageTitleTest</b><br>Test class: com.qa.testcases.EmployeePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.homePageLogoTest()'><b>homePageLogoTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.homePageTitleTest()'><b>homePageTitleTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.JobRolePageTest.jobRolePageLableTest()'><b>jobRolePageLableTest</b><br>Test class: com.qa.testcases.JobRolePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.JobRolePageTest@5b464ce8</td></tr>
+<tr>
+<td title='com.qa.testcases.JobRolePageTest.jobRolePageLogoTest()'><b>jobRolePageLogoTest</b><br>Test class: com.qa.testcases.JobRolePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.JobRolePageTest@5b464ce8</td></tr>
+<tr>
+<td title='com.qa.testcases.JobRolePageTest.jobRolePageTitleTest()'><b>jobRolePageTitleTest</b><br>Test class: com.qa.testcases.JobRolePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.JobRolePageTest@5b464ce8</td></tr>
+<tr>
+<td title='com.qa.testcases.LoginPageTest.loginPageLogoTest()'><b>loginPageLogoTest</b><br>Test class: com.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.LoginPageTest@57829d67</td></tr>
+<tr>
+<td title='com.qa.testcases.LoginPageTest.loginPageTitleTest()'><b>loginPageTitleTest</b><br>Test class: com.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.LoginPageTest@57829d67</td></tr>
+<tr>
+<td title='com.qa.testcases.LoginPageTest.loginTest()'><b>loginTest</b><br>Test class: com.qa.testcases.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.LoginPageTest@57829d67</td></tr>
+<tr>
+<td title='com.qa.testcases.RewardPageTest.rewardPageLableTest()'><b>rewardPageLableTest</b><br>Test class: com.qa.testcases.RewardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.RewardPageTest@19dfb72a</td></tr>
+<tr>
+<td title='com.qa.testcases.RewardPageTest.rewardPageLogoTest()'><b>rewardPageLogoTest</b><br>Test class: com.qa.testcases.RewardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.RewardPageTest@19dfb72a</td></tr>
+<tr>
+<td title='com.qa.testcases.RewardPageTest.rewardPageTitleTest()'><b>rewardPageTitleTest</b><br>Test class: com.qa.testcases.RewardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.RewardPageTest@19dfb72a</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.saveEmployeeTest()'><b>saveEmployeeTest</b><br>Test class: com.qa.testcases.EmployeePageTest<br>Parameters: Steev, Java,MySql,JSON, C:/Users/mygoa/Desktop/java/My_Project/employeerewardsystem/src/main/resources/static/adminResources/image/face7.jpg, Java Developer, Male, Ontario, Ottawa, steev@gmail.com, 1.23456789E9, 2004-06-19, 123345.0, Kings Street</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.saveEmployeeTest()'><b>saveEmployeeTest</b><br>Test class: com.qa.testcases.EmployeePageTest<br>Parameters: Joen, Python,Anaconda,AI, C:/Users/mygoa/Desktop/java/My_Project/employeerewardsystem/src/main/resources/static/adminResources/image/female.jpeg, Python Developer, Female, Ontario, Mississauga, joen@gmail.com, 3.565432345E9, 1994-11-01, 544321.0, Downs View Park</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.saveEmployeeTest()'><b>saveEmployeeTest</b><br>Test class: com.qa.testcases.EmployeePageTest<br>Parameters: Leslee, Selenium,BDD, C:/Users/mygoa/Desktop/java/My_Project/employeerewardsystem/src/main/resources/static/adminResources/image/face7.jpg, QA, Male, Montreal, Saint Laurent, Leslee@gmail.com, 6.543234576E9, 1986-03-23, 877554.0, Martin Grove Road</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.JobRolePageTest.saveJovRoleTest()'><b>saveJovRoleTest</b><br>Test class: com.qa.testcases.JobRolePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.JobRolePageTest@5b464ce8</td></tr>
+<tr>
+<td title='com.qa.testcases.EmployeePageTest.validateManuListTest()'><b>validateManuListTest</b><br>Test class: com.qa.testcases.EmployeePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.EmployeePageTest@340f438e</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.validateManuListTest()'><b>validateManuListTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+<tr>
+<td title='com.qa.testcases.JobRolePageTest.validateManuListTest()'><b>validateManuListTest</b><br>Test class: com.qa.testcases.JobRolePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.JobRolePageTest@5b464ce8</td></tr>
+<tr>
+<td title='com.qa.testcases.RewardPageTest.validateManuListTest()'><b>validateManuListTest</b><br>Test class: com.qa.testcases.RewardPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.RewardPageTest@19dfb72a</td></tr>
+<tr>
+<td title='com.qa.testcases.HomePageTest.validateUserNameTest()'><b>validateUserNameTest</b><br>Test class: com.qa.testcases.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.qa.testcases.HomePageTest@30c7da1e</td></tr>
+</table><p>
+</body>
+</html>

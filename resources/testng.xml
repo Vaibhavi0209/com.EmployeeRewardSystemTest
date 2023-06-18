@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Employee_Reward_System_Test_Automation_Regression_Test_Suite">
+
+	<!-- <listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners> -->
+
+
+	<test name="Employee_Reward_System_Test_Cases">
+		 <packages>
+            <package name="com.qa.testcases"/>
+        </packages>
+	</test>
+</suite>

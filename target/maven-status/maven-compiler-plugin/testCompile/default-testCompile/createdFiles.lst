@@ -1,0 +1,5 @@
+com\qa\testcases\HomePageTest.class
+com\qa\testcases\JobRolePageTest.class
+com\qa\testcases\LoginPageTest.class
+com\qa\testcases\RewardPageTest.class
+com\qa\testcases\EmployeePageTest.class

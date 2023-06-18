@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Employee_Reward_System_Test_Automation_Regression_Test_Suite]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Employee_Reward_System_Test_Cases">
+    <packages>
+      <package name="com.qa.testcases"/>
+    </packages>
+    <classes>
+      <class name="com.qa.testcases.EmployeePageTest"/>
+      <class name="com.qa.testcases.HomePageTest"/>
+      <class name="com.qa.testcases.JobRolePageTest"/>
+      <class name="com.qa.testcases.LoginPageTest"/>
+      <class name="com.qa.testcases.RewardPageTest"/>
+    </classes>
+  </test> <!-- Employee_Reward_System_Test_Cases -->
+</suite> <!-- Failed suite [Employee_Reward_System_Test_Automation_Regression_Test_Suite] -->
