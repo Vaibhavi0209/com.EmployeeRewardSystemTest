@@ -20,8 +20,7 @@ public class TestUtils extends TestBase{
 	public static long PAGE_LOAD_TIMEOUT = 20;
 	public static long IMPLICITE_WAIT = 10;
 	
-	public static String TESTDATA_SHEET_PATH = "C:/Users/mygoa/Desktop/java/seleniumDemo/QA/SeleniumWorkSpace"
-			+ "/com.EmployeeRewardSystemTest/src/main/java/com/qa/testdata/EmployeeRewardSysTestData.xlsx";
+	public static String TESTDATA_SHEET_PATH = "C:/Users/mygoa/Desktop/java/My_Project/git/com.EmployeeRewardSystemTest/src/main/java/com/qa/testdata/EmployeeRewardSysTestData.xlsx";
 	static Workbook book;
 	static Sheet sheet;
 	

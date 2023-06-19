@@ -2,126 +2,126 @@
 <testng-results skipped="0" failed="0" ignored="0" total="27" passed="27">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="80793" started-at="2023-06-16T21:25:32Z" finished-at="2023-06-16T21:26:53Z">
+  <suite name="Command line suite" duration-ms="110482" started-at="2023-06-19T19:16:41Z" finished-at="2023-06-19T19:18:31Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="80793" started-at="2023-06-16T21:25:32Z" finished-at="2023-06-16T21:26:53Z">
+    <test name="Command line test" duration-ms="110482" started-at="2023-06-19T19:16:41Z" finished-at="2023-06-19T19:18:31Z">
       <class name="com.qa.testcases.JobRolePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="2383" started-at="2023-06-16T17:25:40Z" finished-at="2023-06-16T17:25:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="3281" started-at="2023-06-19T15:16:49Z" finished-at="2023-06-19T15:16:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="jobRolePageTitleTest()[pri:1, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="jobRolePageTitleTest" duration-ms="5" started-at="2023-06-16T17:25:43Z" finished-at="2023-06-16T17:25:43Z">
+        <test-method status="PASS" signature="jobRolePageTitleTest()[pri:1, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="jobRolePageTitleTest" duration-ms="22" started-at="2023-06-19T15:16:52Z" finished-at="2023-06-19T15:16:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jobRolePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="644" started-at="2023-06-16T17:25:43Z" finished-at="2023-06-16T17:25:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="686" started-at="2023-06-19T15:16:53Z" finished-at="2023-06-19T15:16:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="2225" started-at="2023-06-16T17:26:06Z" finished-at="2023-06-16T17:26:09Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="3406" started-at="2023-06-19T15:17:25Z" finished-at="2023-06-19T15:17:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="jobRolePageLableTest()[pri:2, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="jobRolePageLableTest" duration-ms="30" started-at="2023-06-16T17:26:09Z" finished-at="2023-06-16T17:26:09Z">
+        <test-method status="PASS" signature="jobRolePageLableTest()[pri:2, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="jobRolePageLableTest" duration-ms="61" started-at="2023-06-19T15:17:28Z" finished-at="2023-06-19T15:17:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jobRolePageLableTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="627" started-at="2023-06-16T17:26:09Z" finished-at="2023-06-16T17:26:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="712" started-at="2023-06-19T15:17:28Z" finished-at="2023-06-19T15:17:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="2266" started-at="2023-06-16T17:26:09Z" finished-at="2023-06-16T17:26:12Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="3476" started-at="2023-06-19T15:17:29Z" finished-at="2023-06-19T15:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="jobRolePageLogoTest()[pri:2, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="jobRolePageLogoTest" duration-ms="111" started-at="2023-06-16T17:26:12Z" finished-at="2023-06-16T17:26:12Z">
+        <test-method status="PASS" signature="jobRolePageLogoTest()[pri:2, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="jobRolePageLogoTest" duration-ms="131" started-at="2023-06-19T15:17:32Z" finished-at="2023-06-19T15:17:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jobRolePageLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="656" started-at="2023-06-16T17:26:12Z" finished-at="2023-06-16T17:26:12Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="721" started-at="2023-06-19T15:17:32Z" finished-at="2023-06-19T15:17:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="2250" started-at="2023-06-16T17:26:12Z" finished-at="2023-06-16T17:26:15Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="3281" started-at="2023-06-19T15:17:33Z" finished-at="2023-06-19T15:17:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateManuListTest()[pri:2, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="validateManuListTest" duration-ms="31" started-at="2023-06-16T17:26:15Z" finished-at="2023-06-16T17:26:15Z">
+        <test-method status="PASS" signature="validateManuListTest()[pri:2, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="validateManuListTest" duration-ms="27" started-at="2023-06-19T15:17:36Z" finished-at="2023-06-19T15:17:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateManuListTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="633" started-at="2023-06-16T17:26:15Z" finished-at="2023-06-16T17:26:15Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="746" started-at="2023-06-19T15:17:36Z" finished-at="2023-06-19T15:17:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="2178" started-at="2023-06-16T17:26:44Z" finished-at="2023-06-16T17:26:46Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="setUp" is-config="true" duration-ms="3689" started-at="2023-06-19T15:18:18Z" finished-at="2023-06-19T15:18:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="saveJovRoleTest()[pri:3, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="saveJovRoleTest" duration-ms="648" started-at="2023-06-16T17:26:46Z" finished-at="2023-06-16T17:26:47Z">
+        <test-method status="PASS" signature="saveJovRoleTest()[pri:3, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="saveJovRoleTest" duration-ms="987" started-at="2023-06-19T15:18:22Z" finished-at="2023-06-19T15:18:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- saveJovRoleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="672" started-at="2023-06-16T17:26:47Z" finished-at="2023-06-16T17:26:48Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.JobRolePageTest@2f7a2457]" name="tearDown" is-config="true" duration-ms="789" started-at="2023-06-19T15:18:23Z" finished-at="2023-06-19T15:18:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.testcases.JobRolePageTest -->
       <class name="com.qa.testcases.EmployeePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="4761" started-at="2023-06-16T17:25:32Z" finished-at="2023-06-16T17:25:37Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="4353" started-at="2023-06-19T15:16:41Z" finished-at="2023-06-19T15:16:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="employeePageTitleTest()[pri:1, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="employeePageTitleTest" duration-ms="7" started-at="2023-06-16T17:25:37Z" finished-at="2023-06-16T17:25:37Z">
+        <test-method status="PASS" signature="employeePageTitleTest()[pri:1, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="employeePageTitleTest" duration-ms="24" started-at="2023-06-19T15:16:45Z" finished-at="2023-06-19T15:16:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- employeePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="649" started-at="2023-06-16T17:25:37Z" finished-at="2023-06-16T17:25:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="690" started-at="2023-06-19T15:16:45Z" finished-at="2023-06-19T15:16:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="2507" started-at="2023-06-16T17:25:49Z" finished-at="2023-06-16T17:25:51Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="3569" started-at="2023-06-19T15:17:00Z" finished-at="2023-06-19T15:17:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="employeePageLableTest()[pri:2, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="employeePageLableTest" duration-ms="38" started-at="2023-06-16T17:25:51Z" finished-at="2023-06-16T17:25:51Z">
+        <test-method status="PASS" signature="employeePageLableTest()[pri:2, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="employeePageLableTest" duration-ms="71" started-at="2023-06-19T15:17:03Z" finished-at="2023-06-19T15:17:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- employeePageLableTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="655" started-at="2023-06-16T17:25:51Z" finished-at="2023-06-16T17:25:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="692" started-at="2023-06-19T15:17:04Z" finished-at="2023-06-19T15:17:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="2378" started-at="2023-06-16T17:25:52Z" finished-at="2023-06-16T17:25:54Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="3552" started-at="2023-06-19T15:17:04Z" finished-at="2023-06-19T15:17:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="employeePageLogoTest()[pri:2, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="employeePageLogoTest" duration-ms="105" started-at="2023-06-16T17:25:54Z" finished-at="2023-06-16T17:25:55Z">
+        <test-method status="PASS" signature="employeePageLogoTest()[pri:2, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="employeePageLogoTest" duration-ms="184" started-at="2023-06-19T15:17:08Z" finished-at="2023-06-19T15:17:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- employeePageLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="638" started-at="2023-06-16T17:25:55Z" finished-at="2023-06-16T17:25:55Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="653" started-at="2023-06-19T15:17:08Z" finished-at="2023-06-19T15:17:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="2376" started-at="2023-06-16T17:25:55Z" finished-at="2023-06-16T17:25:58Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="3749" started-at="2023-06-19T15:17:09Z" finished-at="2023-06-19T15:17:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateManuListTest()[pri:2, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="validateManuListTest" duration-ms="31" started-at="2023-06-16T17:25:58Z" finished-at="2023-06-16T17:25:58Z">
+        <test-method status="PASS" signature="validateManuListTest()[pri:2, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="validateManuListTest" duration-ms="31" started-at="2023-06-19T15:17:12Z" finished-at="2023-06-19T15:17:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateManuListTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="648" started-at="2023-06-16T17:25:58Z" finished-at="2023-06-16T17:25:58Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="651" started-at="2023-06-19T15:17:12Z" finished-at="2023-06-19T15:17:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="2295" started-at="2023-06-16T17:26:24Z" finished-at="2023-06-16T17:26:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="3392" started-at="2023-06-19T15:17:49Z" finished-at="2023-06-19T15:17:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="saveEmployeeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="saveEmployeeTest" duration-ms="0" started-at="2023-06-16T17:26:26Z" data-provider="getEmployeeData" finished-at="2023-06-16T17:26:26Z">
+        <test-method status="PASS" signature="saveEmployeeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="saveEmployeeTest" duration-ms="0" started-at="2023-06-19T15:17:52Z" data-provider="getEmployeeData" finished-at="2023-06-19T15:17:52Z">
           <params>
             <param index="0">
               <value>
@@ -187,15 +187,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- saveEmployeeTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="621" started-at="2023-06-16T17:26:26Z" finished-at="2023-06-16T17:26:27Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="715" started-at="2023-06-19T15:17:52Z" finished-at="2023-06-19T15:17:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="2287" started-at="2023-06-16T17:26:27Z" finished-at="2023-06-16T17:26:29Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="3498" started-at="2023-06-19T15:17:53Z" finished-at="2023-06-19T15:17:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="saveEmployeeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="saveEmployeeTest" duration-ms="0" started-at="2023-06-16T17:26:29Z" data-provider="getEmployeeData" finished-at="2023-06-16T17:26:29Z">
+        <test-method status="PASS" signature="saveEmployeeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="saveEmployeeTest" duration-ms="0" started-at="2023-06-19T15:17:57Z" data-provider="getEmployeeData" finished-at="2023-06-19T15:17:57Z">
           <params>
             <param index="0">
               <value>
@@ -261,15 +261,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- saveEmployeeTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="645" started-at="2023-06-16T17:26:29Z" finished-at="2023-06-16T17:26:30Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="686" started-at="2023-06-19T15:17:57Z" finished-at="2023-06-19T15:17:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="2205" started-at="2023-06-16T17:26:30Z" finished-at="2023-06-16T17:26:32Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="setUp" is-config="true" duration-ms="3562" started-at="2023-06-19T15:17:57Z" finished-at="2023-06-19T15:18:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="saveEmployeeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="saveEmployeeTest" duration-ms="1" started-at="2023-06-16T17:26:32Z" data-provider="getEmployeeData" finished-at="2023-06-16T17:26:32Z">
+        <test-method status="PASS" signature="saveEmployeeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="saveEmployeeTest" duration-ms="1" started-at="2023-06-19T15:18:01Z" data-provider="getEmployeeData" finished-at="2023-06-19T15:18:01Z">
           <params>
             <param index="0">
               <value>
@@ -335,193 +335,193 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- saveEmployeeTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="659" started-at="2023-06-16T17:26:32Z" finished-at="2023-06-16T17:26:33Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.EmployeePageTest@7f690630]" name="tearDown" is-config="true" duration-ms="737" started-at="2023-06-19T15:18:01Z" finished-at="2023-06-19T15:18:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.testcases.EmployeePageTest -->
       <class name="com.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2029" started-at="2023-06-16T17:25:38Z" finished-at="2023-06-16T17:25:40Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2707" started-at="2023-06-19T15:16:46Z" finished-at="2023-06-19T15:16:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:com.qa.testcases.HomePageTest@edf4efb]" name="homePageTitleTest" duration-ms="7" started-at="2023-06-16T17:25:40Z" finished-at="2023-06-16T17:25:40Z">
+        <test-method status="PASS" signature="homePageTitleTest()[pri:1, instance:com.qa.testcases.HomePageTest@edf4efb]" name="homePageTitleTest" duration-ms="173" started-at="2023-06-19T15:16:48Z" finished-at="2023-06-19T15:16:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="648" started-at="2023-06-16T17:25:40Z" finished-at="2023-06-16T17:25:40Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="692" started-at="2023-06-19T15:16:49Z" finished-at="2023-06-19T15:16:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2020" started-at="2023-06-16T17:25:58Z" finished-at="2023-06-16T17:26:00Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="3290" started-at="2023-06-19T15:17:13Z" finished-at="2023-06-19T15:17:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="homePageLogoTest()[pri:2, instance:com.qa.testcases.HomePageTest@edf4efb]" name="homePageLogoTest" duration-ms="97" started-at="2023-06-16T17:26:00Z" finished-at="2023-06-16T17:26:00Z">
+        <test-method status="PASS" signature="homePageLogoTest()[pri:2, instance:com.qa.testcases.HomePageTest@edf4efb]" name="homePageLogoTest" duration-ms="148" started-at="2023-06-19T15:17:16Z" finished-at="2023-06-19T15:17:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="637" started-at="2023-06-16T17:26:00Z" finished-at="2023-06-16T17:26:01Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="705" started-at="2023-06-19T15:17:16Z" finished-at="2023-06-19T15:17:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2036" started-at="2023-06-16T17:26:01Z" finished-at="2023-06-16T17:26:03Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="3006" started-at="2023-06-19T15:17:17Z" finished-at="2023-06-19T15:17:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateManuListTest()[pri:2, instance:com.qa.testcases.HomePageTest@edf4efb]" name="validateManuListTest" duration-ms="20" started-at="2023-06-16T17:26:03Z" finished-at="2023-06-16T17:26:03Z">
+        <test-method status="PASS" signature="validateManuListTest()[pri:2, instance:com.qa.testcases.HomePageTest@edf4efb]" name="validateManuListTest" duration-ms="40" started-at="2023-06-19T15:17:20Z" finished-at="2023-06-19T15:17:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateManuListTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="644" started-at="2023-06-16T17:26:03Z" finished-at="2023-06-16T17:26:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="659" started-at="2023-06-19T15:17:20Z" finished-at="2023-06-19T15:17:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="1986" started-at="2023-06-16T17:26:04Z" finished-at="2023-06-16T17:26:06Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2958" started-at="2023-06-19T15:17:21Z" finished-at="2023-06-19T15:17:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateUserNameTest()[pri:2, instance:com.qa.testcases.HomePageTest@edf4efb]" name="validateUserNameTest" duration-ms="60" started-at="2023-06-16T17:26:06Z" finished-at="2023-06-16T17:26:06Z">
+        <test-method status="PASS" signature="validateUserNameTest()[pri:2, instance:com.qa.testcases.HomePageTest@edf4efb]" name="validateUserNameTest" duration-ms="80" started-at="2023-06-19T15:17:24Z" finished-at="2023-06-19T15:17:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateUserNameTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="653" started-at="2023-06-16T17:26:06Z" finished-at="2023-06-16T17:26:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="677" started-at="2023-06-19T15:17:24Z" finished-at="2023-06-19T15:17:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="1999" started-at="2023-06-16T17:26:33Z" finished-at="2023-06-16T17:26:35Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2920" started-at="2023-06-19T15:18:02Z" finished-at="2023-06-19T15:18:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="EmployeesLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="EmployeesLinkTest" duration-ms="258" started-at="2023-06-16T17:26:35Z" finished-at="2023-06-16T17:26:35Z">
+        <test-method status="PASS" signature="EmployeesLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="EmployeesLinkTest" duration-ms="533" started-at="2023-06-19T15:18:05Z" finished-at="2023-06-19T15:18:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeesLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="642" started-at="2023-06-16T17:26:35Z" finished-at="2023-06-16T17:26:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="705" started-at="2023-06-19T15:18:05Z" finished-at="2023-06-19T15:18:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="1988" started-at="2023-06-16T17:26:36Z" finished-at="2023-06-16T17:26:38Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2874" started-at="2023-06-19T15:18:06Z" finished-at="2023-06-19T15:18:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="JobRoleLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="JobRoleLinkTest" duration-ms="233" started-at="2023-06-16T17:26:38Z" finished-at="2023-06-16T17:26:38Z">
+        <test-method status="PASS" signature="JobRoleLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="JobRoleLinkTest" duration-ms="704" started-at="2023-06-19T15:18:09Z" finished-at="2023-06-19T15:18:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- JobRoleLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="663" started-at="2023-06-16T17:26:38Z" finished-at="2023-06-16T17:26:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="702" started-at="2023-06-19T15:18:09Z" finished-at="2023-06-19T15:18:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="1988" started-at="2023-06-16T17:26:38Z" finished-at="2023-06-16T17:26:40Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2888" started-at="2023-06-19T15:18:10Z" finished-at="2023-06-19T15:18:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="RewardLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="RewardLinkTest" duration-ms="222" started-at="2023-06-16T17:26:40Z" finished-at="2023-06-16T17:26:41Z">
+        <test-method status="PASS" signature="RewardLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="RewardLinkTest" duration-ms="376" started-at="2023-06-19T15:18:13Z" finished-at="2023-06-19T15:18:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RewardLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="622" started-at="2023-06-16T17:26:41Z" finished-at="2023-06-16T17:26:41Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="672" started-at="2023-06-19T15:18:13Z" finished-at="2023-06-19T15:18:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="2034" started-at="2023-06-16T17:26:41Z" finished-at="2023-06-16T17:26:43Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="setUp" is-config="true" duration-ms="3002" started-at="2023-06-19T15:18:14Z" finished-at="2023-06-19T15:18:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="dasbordLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="dasbordLinkTest" duration-ms="169" started-at="2023-06-16T17:26:43Z" finished-at="2023-06-16T17:26:43Z">
+        <test-method status="PASS" signature="dasbordLinkTest()[pri:3, instance:com.qa.testcases.HomePageTest@edf4efb]" name="dasbordLinkTest" duration-ms="262" started-at="2023-06-19T15:18:17Z" finished-at="2023-06-19T15:18:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dasbordLinkTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="611" started-at="2023-06-16T17:26:43Z" finished-at="2023-06-16T17:26:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@edf4efb]" name="tearDown" is-config="true" duration-ms="747" started-at="2023-06-19T15:18:17Z" finished-at="2023-06-19T15:18:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.testcases.HomePageTest -->
       <class name="com.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="setUp" is-config="true" duration-ms="1555" started-at="2023-06-16T17:25:43Z" finished-at="2023-06-16T17:25:45Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="setUp" is-config="true" duration-ms="2070" started-at="2023-06-19T15:16:53Z" finished-at="2023-06-19T15:16:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.qa.testcases.LoginPageTest@566776ad]" name="loginPageTitleTest" duration-ms="5" started-at="2023-06-16T17:25:45Z" finished-at="2023-06-16T17:25:45Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.qa.testcases.LoginPageTest@566776ad]" name="loginPageTitleTest" duration-ms="8" started-at="2023-06-19T15:16:55Z" finished-at="2023-06-19T15:16:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="tearDown" is-config="true" duration-ms="623" started-at="2023-06-16T17:25:45Z" finished-at="2023-06-16T17:25:46Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="tearDown" is-config="true" duration-ms="662" started-at="2023-06-19T15:16:55Z" finished-at="2023-06-19T15:16:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="setUp" is-config="true" duration-ms="1506" started-at="2023-06-16T17:26:15Z" finished-at="2023-06-16T17:26:17Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="setUp" is-config="true" duration-ms="2087" started-at="2023-06-19T15:17:37Z" finished-at="2023-06-19T15:17:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageLogoTest()[pri:2, instance:com.qa.testcases.LoginPageTest@566776ad]" name="loginPageLogoTest" duration-ms="68" started-at="2023-06-16T17:26:17Z" finished-at="2023-06-16T17:26:17Z">
+        <test-method status="PASS" signature="loginPageLogoTest()[pri:2, instance:com.qa.testcases.LoginPageTest@566776ad]" name="loginPageLogoTest" duration-ms="72" started-at="2023-06-19T15:17:39Z" finished-at="2023-06-19T15:17:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="tearDown" is-config="true" duration-ms="628" started-at="2023-06-16T17:26:17Z" finished-at="2023-06-16T17:26:17Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="tearDown" is-config="true" duration-ms="706" started-at="2023-06-19T15:17:39Z" finished-at="2023-06-19T15:17:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="setUp" is-config="true" duration-ms="1505" started-at="2023-06-16T17:26:48Z" finished-at="2023-06-16T17:26:49Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="setUp" is-config="true" duration-ms="2075" started-at="2023-06-19T15:18:23Z" finished-at="2023-06-19T15:18:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.testcases.LoginPageTest@566776ad]" name="loginTest" duration-ms="469" started-at="2023-06-16T17:26:49Z" finished-at="2023-06-16T17:26:50Z">
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.qa.testcases.LoginPageTest@566776ad]" name="loginTest" duration-ms="674" started-at="2023-06-19T15:18:26Z" finished-at="2023-06-19T15:18:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="tearDown" is-config="true" duration-ms="643" started-at="2023-06-16T17:26:50Z" finished-at="2023-06-16T17:26:50Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginPageTest@566776ad]" name="tearDown" is-config="true" duration-ms="717" started-at="2023-06-19T15:18:26Z" finished-at="2023-06-19T15:18:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.testcases.LoginPageTest -->
       <class name="com.qa.testcases.RewardPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="2503" started-at="2023-06-16T17:25:46Z" finished-at="2023-06-16T17:25:48Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="3233" started-at="2023-06-19T15:16:56Z" finished-at="2023-06-19T15:16:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="rewardPageTitleTest()[pri:1, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="rewardPageTitleTest" duration-ms="12" started-at="2023-06-16T17:25:48Z" finished-at="2023-06-16T17:25:48Z">
+        <test-method status="PASS" signature="rewardPageTitleTest()[pri:1, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="rewardPageTitleTest" duration-ms="8" started-at="2023-06-19T15:16:59Z" finished-at="2023-06-19T15:16:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rewardPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="647" started-at="2023-06-16T17:25:48Z" finished-at="2023-06-16T17:25:49Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="682" started-at="2023-06-19T15:16:59Z" finished-at="2023-06-19T15:17:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="2152" started-at="2023-06-16T17:26:17Z" finished-at="2023-06-16T17:26:20Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="3332" started-at="2023-06-19T15:17:40Z" finished-at="2023-06-19T15:17:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="rewardPageLableTest()[pri:2, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="rewardPageLableTest" duration-ms="40" started-at="2023-06-16T17:26:20Z" finished-at="2023-06-16T17:26:20Z">
+        <test-method status="PASS" signature="rewardPageLableTest()[pri:2, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="rewardPageLableTest" duration-ms="49" started-at="2023-06-19T15:17:43Z" finished-at="2023-06-19T15:17:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rewardPageLableTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="638" started-at="2023-06-16T17:26:20Z" finished-at="2023-06-16T17:26:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="692" started-at="2023-06-19T15:17:43Z" finished-at="2023-06-19T15:17:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="2212" started-at="2023-06-16T17:26:20Z" finished-at="2023-06-16T17:26:22Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="3273" started-at="2023-06-19T15:17:44Z" finished-at="2023-06-19T15:17:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="rewardPageLogoTest()[pri:2, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="rewardPageLogoTest" duration-ms="83" started-at="2023-06-16T17:26:22Z" finished-at="2023-06-16T17:26:23Z">
+        <test-method status="PASS" signature="rewardPageLogoTest()[pri:2, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="rewardPageLogoTest" duration-ms="112" started-at="2023-06-19T15:17:47Z" finished-at="2023-06-19T15:17:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- rewardPageLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="655" started-at="2023-06-16T17:26:23Z" finished-at="2023-06-16T17:26:23Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="736" started-at="2023-06-19T15:17:47Z" finished-at="2023-06-19T15:17:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="2262" started-at="2023-06-16T17:26:50Z" finished-at="2023-06-16T17:26:52Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="setUp" is-config="true" duration-ms="3366" started-at="2023-06-19T15:18:27Z" finished-at="2023-06-19T15:18:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateManuListTest()[pri:3, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="validateManuListTest" duration-ms="40" started-at="2023-06-16T17:26:52Z" finished-at="2023-06-16T17:26:52Z">
+        <test-method status="PASS" signature="validateManuListTest()[pri:3, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="validateManuListTest" duration-ms="35" started-at="2023-06-19T15:18:30Z" finished-at="2023-06-19T15:18:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateManuListTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="645" started-at="2023-06-16T17:26:52Z" finished-at="2023-06-16T17:26:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.RewardPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="700" started-at="2023-06-19T15:18:30Z" finished-at="2023-06-19T15:18:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

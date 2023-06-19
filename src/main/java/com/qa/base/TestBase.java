@@ -8,6 +8,7 @@ import java.time.Duration;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -15,6 +16,7 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 
 import com.qa.utils.TestUtils;
 import com.qa.utils.WebEventListener;
+import com.relevantcodes.extentreports.model.Log;
 
 public class TestBase {
 
@@ -22,18 +24,21 @@ public class TestBase {
 	public static Properties prop;
 	public  static EventFiringWebDriver e_driver;
 	public static WebEventListener eventListener;
+	
+	public static Logger log = Logger.getLogger(TestBase.class);
 
 	public TestBase() {
 
 		try {
 			
-			File f = new File("C:\\Users\\mygoa\\Desktop\\java\\seleniumDemo\\QA\\SeleniumWorkSpace\\com.ERSTest\\src\\main\\java\\com\\qa\\config\\config.properties");
+			File f = new File("C:\\Users\\mygoa\\Desktop\\java\\My_Project\\git\\com.EmployeeRewardSystemTest\\src\\main\\java\\com\\qa\\config\\config.properties");
 			FileInputStream fis = new FileInputStream(f);
 			
 			prop = new Properties();
 			prop.load(fis);
 			
-			System.out.println(prop.getProperty("browser"));
+			log.info("Launching ::: "+ prop.getProperty("browser") +" Browser");
+			//System.out.println(prop.getProperty("browser"));
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -65,5 +70,7 @@ public class TestBase {
 		driver.manage().timeouts().implicitlyWait(TestUtils.IMPLICITE_WAIT,TimeUnit.SECONDS);
 		
 		driver.get(prop.getProperty("url"));
+		log.info("lanching URL:");
+		
 	}
 }
