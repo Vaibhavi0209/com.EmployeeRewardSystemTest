@@ -1,11 +1,26 @@
-2023-06-19 15:26:57,800  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:00,309  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:00,793  INFO [main] TestBase:73 - lanching URL:
-2023-06-19 15:27:00,795  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:03,122  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:03,556  INFO [main] TestBase:73 - lanching URL:
-2023-06-19 15:27:03,556  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:06,076  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:06,536  INFO [main] TestBase:73 - lanching URL:
-2023-06-19 15:27:06,538  INFO [main] TestBase:40 - Launching ::: chrome Browser
-2023-06-19 15:27:07,204  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:12,381  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:14,394  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:14,761  INFO [main] TestBase:73 - lanching URL:
+2023-06-23 17:00:14,762  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:15,245  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:15,478  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:17,297  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:17,644  INFO [main] TestBase:73 - lanching URL:
+2023-06-23 17:00:17,645  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:18,099  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:18,316  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:20,165  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:20,520  INFO [main] TestBase:73 - lanching URL:
+2023-06-23 17:00:20,521  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:20,958  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:21,166  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:23,078  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:23,428  INFO [main] TestBase:73 - lanching URL:
+2023-06-23 17:00:23,429  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:23,865  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:24,079  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:25,927  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:26,271  INFO [main] TestBase:73 - lanching URL:
+2023-06-23 17:00:26,271  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:26,732  INFO [main] TestBase:40 - Launching ::: chrome Browser
+2023-06-23 17:00:26,963  INFO [main] TestBase:40 - Launching ::: chrome Browser

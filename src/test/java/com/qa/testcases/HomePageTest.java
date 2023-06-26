@@ -11,7 +11,6 @@ import com.qa.pages.HomePage;
 import com.qa.pages.JobRolePage;
 import com.qa.pages.LoginPage;
 import com.qa.pages.RewardPage;
-import com.qa.utils.TestUtils;
 
 public class HomePageTest extends TestBase{
 
@@ -20,7 +19,6 @@ public class HomePageTest extends TestBase{
 	RewardPage rewardPage;
 	JobRolePage jobRolePage;
 	EmployeesPage employeesPage;
-	TestUtils testUtils;
 	
 	public HomePageTest(){
 		super();

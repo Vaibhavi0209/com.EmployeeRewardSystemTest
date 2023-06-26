@@ -89,6 +89,11 @@ public class HomePage extends TestBase{
 		return new EmployeesPage();
 	}
 	
+	public EventPage clickOnEventLink(){
+		EventLink.click();
+		return new EventPage();
+	}
+	
 	public static void main(String[] args) throws InterruptedException{
 		
 		HomePage homePage = new HomePage();
